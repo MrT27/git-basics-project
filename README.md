@@ -14,4 +14,3 @@ Ez az első repository itt az oldal segítségével
 
 1. lorem6
 2. éalkjd
-3. Egy tiszta nő volt nagy nemesi családból
